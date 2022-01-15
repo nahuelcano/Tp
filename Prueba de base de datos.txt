@@ -1,0 +1,5 @@
+idDisparo,nroParticipante,nombre,apellido,edad,sexo,disparos,mejor_disparo,promedio,puntaje_total
+1,1,Alan,Cano,28,M,"[52, 45, 55]",45,51,152
+2,2,Nahuel,Cano,24,M,"[62, 32, 87]",32,60,181
+3,3,Pablo,Rios,30,M,"[58, 67, 27]",27,51,152
+4,4,Enzo,Rios,24,M,"[38, 36, 84]",36,53,158

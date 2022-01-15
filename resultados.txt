@@ -1,0 +1,4 @@
+idDisparo,nroParticipante,nombre,apellido,edad,sexo,disparos,mejor_disparo,promedio,puntaje_total
+1,1,nahuel,cano,25,M,"[73, 78, 65]",,72,216
+2,2,naara,diaz,24,F,"[36, 41, 38]",,38,115
+3,3,alan,cano,28,M,"[41, 79, 59]",,60,179
